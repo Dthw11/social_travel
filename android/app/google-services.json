@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "191704604132",
+    "firebase_url": "https://travelshare-91408-default-rtdb.firebaseio.com",
+    "project_id": "travelshare-91408",
+    "storage_bucket": "travelshare-91408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191704604132:android:4c89843d4f5a93f62a3bf1",
+        "android_client_info": {
+          "package_name": "com.example.social_travel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGY4MF2IWvpNXZs2y0IZDGxvYMUIQ1Nec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191704604132:android:e638d6ef365c73ab2a3bf1",
+        "android_client_info": {
+          "package_name": "com.example.travel_sharing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGY4MF2IWvpNXZs2y0IZDGxvYMUIQ1Nec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
